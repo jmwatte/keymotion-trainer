@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+out/
+dist/
+coverage/
+
+# VS Code test runner artifacts
+.vscode-test/
+
+# Editor
+.vscode/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# OS junk
+.DS_Store
+Thumbs.db
